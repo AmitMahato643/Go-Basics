@@ -18,3 +18,9 @@
 *
 !/**/
 !*.*
+
+# ignore .env file
+.env
+
+# ignore sample google oauth response
+sampleOauth.json
